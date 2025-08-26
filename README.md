@@ -17,5 +17,5 @@ Ref: Esen, İrfan MDa,*; Arslan, Hilalb; Aktürk Esen, Selin MDc; Gülşen, Merv
 
 -   Uncomment cells marked with # save results to generate the new features dataset
 
--   Run models in main/prediction models and main/prediction models - lab
+-   Run models
 
