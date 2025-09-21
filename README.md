@@ -11,7 +11,7 @@ Ref: Esen, İrfan MDa,*; Arslan, Hilalb; Aktürk Esen, Selin MDc; Gülşen, Merv
 
 - Install necessary packages and dependencies 
     ```sh
-    pip install -r requirements.txt OR conda install --file requirements.txt
+    pip install -r requirements.txt 
     ```
     Or
     ```sh
