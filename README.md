@@ -13,9 +13,7 @@ Ref: Esen, İrfan MDa,*; Arslan, Hilalb; Aktürk Esen, Selin MDc; Gülşen, Merv
     ```sh
     pip install -r requirements.txt OR conda install --file requirements.txt
     ```
--   Run main/gallstone_ankara.ipynb 
+-   Run main/gallstone_ankara.ipynb to explore data
 
--   Uncomment cells marked with # save results to generate the new features dataset
-
--   Run models in main/prediction models and main/prediction models - lab
+-   Run models
 
