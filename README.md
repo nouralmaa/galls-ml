@@ -28,9 +28,9 @@ Ref: Esen, İrfan MDa,*; Arslan, Hilalb; Aktürk Esen, Selin MDc; Gülşen, Merv
     ```
 
 - Hot future ideas:
--     Add new synthetic or hopistal data for training    
--     Addimaging datasets and models 
--     Potentially add a lil prototype for multimodal ml
+    -  Add new synthetic or hopistal data for training    
+    -  Addimaging datasets and models 
+    - Potentially add a lil prototype for multimodal ml
 
   
 
