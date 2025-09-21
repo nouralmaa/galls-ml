@@ -13,7 +13,17 @@ Ref: Esen, İrfan MDa,*; Arslan, Hilalb; Aktürk Esen, Selin MDc; Gülşen, Merv
     ```sh
     pip install -r requirements.txt OR conda install --file requirements.txt
     ```
+    Or
+    ```sh
+    conda install --file requirements.txt
+    ```
+
 -   Run main/gallstone_ankara.ipynb to explore data
 
--   Run models
+-   Run main/models 
+
+-   Run model tests 
+    ```sh
+    pytest main/test.py
+    ```
 
