@@ -1,6 +1,7 @@
 Based on 10.1097/MD.0000000000037258
 
-### Citation 
+#### Citation
+```python
 @article{esen2024early,
   title={Early prediction of gallstone disease with a machine learning-based method from bioimpedance and laboratory data},
   author={Esen, {\.I}rfan and Arslan, Hilal and Esen, Selin Akt{\"u}rk and G{\"u}l{\c{s}}en, Mervenur and K{\"u}ltekin, Nimet and {\"O}zdemir, O{\u{g}}uzhan},
@@ -11,6 +12,7 @@ Based on 10.1097/MD.0000000000037258
   year={2024},
   publisher={LWW}
 }
+```
 
 ### Getting Started
 
