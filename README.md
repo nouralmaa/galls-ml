@@ -1,6 +1,16 @@
 Based on 10.1097/MD.0000000000037258
 
-Ref: Esen, İrfan MDa,*; Arslan, Hilalb; Aktürk Esen, Selin MDc; Gülşen, Mervenurd; Kültekin, Nimetd; Özdemir, Oğuzhan MDe. Early prediction of gallstone disease with a machine learning-based method from bioimpedance and laboratory data. Medicine 103(8):p e37258, February 23, 2024
+### Citation 
+@article{esen2024early,
+  title={Early prediction of gallstone disease with a machine learning-based method from bioimpedance and laboratory data},
+  author={Esen, {\.I}rfan and Arslan, Hilal and Esen, Selin Akt{\"u}rk and G{\"u}l{\c{s}}en, Mervenur and K{\"u}ltekin, Nimet and {\"O}zdemir, O{\u{g}}uzhan},
+  journal={Medicine},
+  volume={103},
+  number={8},
+  pages={e37258},
+  year={2024},
+  publisher={LWW}
+}
 
 ### Getting Started
 
@@ -20,7 +30,7 @@ Ref: Esen, İrfan MDa,*; Arslan, Hilalb; Aktürk Esen, Selin MDc; Gülşen, Merv
 
 -   Run main/gallstone_ankara.ipynb to explore data
 
--   Run main/models 
+-   Run main/models.py 
 
 -   Run model tests 
     ```sh
@@ -28,8 +38,8 @@ Ref: Esen, İrfan MDa,*; Arslan, Hilalb; Aktürk Esen, Selin MDc; Gülşen, Merv
     ```
 
 - Hot future ideas:
-    -  Add new synthetic or hopistal data for training    
-    -  Addimaging datasets and models 
+    -  Add new synthetic or hospital data for training    
+    -  Add imaging datasets and models 
     - Potentially add a lil prototype for multimodal ml
 
   
